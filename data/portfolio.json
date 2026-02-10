@@ -1,0 +1,147 @@
+{
+  "personal": {
+    "name": "Ankit Raj",
+    "title": "Full Stack Developer (MERN)",
+    "yearsOfExperience": 1,
+    "email": "ankitrajbarhiya51@gmail.com",
+    "phone": "+91 8409977787",
+    "location": "India",
+    "github": "https://github.com/Ankit4899",
+    "linkedin": "https://www.linkedin.com/in/ankit-raj4899",
+    "portfolio": ""
+  },
+
+  "about": {
+    "title": "About Me",
+    "description": "I am an enthusiastic and adaptable Full Stack Developer with hands-on experience in building responsive and scalable web applications using the MERN stack. I enjoy turning real-world problems into clean, functional, and user-friendly digital solutions. I am constantly learning, experimenting, and improving my skills to become a better engineer every day.",
+    "quote": "Learning by building, growing by solving.",
+    "highlights": [
+      "Hands-on experience with MERN stack development",
+      "Strong foundation in frontend and backend technologies",
+      "Experience building real-world dashboards and systems",
+      "Quick learner with strong problem-solving skills"
+    ]
+  },
+
+  "objective": {
+    "title": "Career Objective",
+    "content": "To begin my professional journey as a Full Stack Developer where I can apply my MERN stack skills, problem-solving abilities, and passion for technology to build scalable applications, gain industry exposure, and grow as a software engineer."
+  },
+
+  "profileSummary": {
+    "title": "Profile Summary",
+    "content": "Motivated Full Stack Developer with practical experience in React.js, Node.js, Express.js, and MongoDB. Skilled in developing secure, responsive, and user-centric applications. Experienced in building dashboards, authentication systems, and REST APIs. A collaborative team player with a strong desire to learn and grow in fast-paced development environments."
+  },
+
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": ["HTML", "CSS", "JavaScript", "React.js", "Bootstrap", "EJS"]
+    },
+    {
+      "category": "Backend",
+      "items": ["Node.js", "Express.js", "REST APIs"]
+    },
+    {
+      "category": "Database",
+      "items": ["MongoDB", "SQL"]
+    },
+    {
+      "category": "Programming Languages",
+      "items": ["Java", "Python"]
+    },
+    {
+      "category": "Tools & Practices",
+      "items": ["Git", "GitHub", "VS Code", "JWT Authentication"]
+    }
+  ],
+
+  "experience": [
+    {
+      "id": 1,
+      "company": "Indian Oil Corporation Limited (IOCL), Barauni",
+      "position": "Full Stack Developer Intern",
+      "duration": "Jun 2025 - Jul 2025",
+      "location": "Barauni, India",
+      "image": "/images/iocl.png",
+      "roles": [
+        "Developed a MERN stack web application to showcase IOCL Barauni’s current and upcoming projects",
+        "Built a responsive frontend using React with Vite",
+        "Integrated backend APIs to handle dynamic project data and news updates",
+        "Implemented a secure login-based dashboard for authenticated users",
+        "Ensured cross-browser compatibility and responsive design"
+      ],
+      "technologies": ["React", "Vite", "Node.js", "Express.js", "MongoDB"]
+    },
+    {
+      "id": 2,
+      "company": "Higher Dimensions",
+      "position": "Full Stack Developer Intern",
+      "duration": "Jan 2025 - Feb 2025",
+      "location": "India",
+      "image": "/images/higher-dimensions.png",
+      "roles": [
+        "Developed full-stack web applications using React.js, Node.js, Express.js, and MongoDB",
+        "Implemented JWT-based authentication for secure user access",
+        "Optimized API performance and database queries for scalability",
+        "Collaborated with team members to deliver features on time"
+      ],
+      "technologies": ["React", "Node.js", "Express.js", "MongoDB", "JWT"]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": 1,
+      "name": "Doctor Appointment System",
+      "description": "A MERN stack doctor appointment system allowing users to book, reschedule, and manage appointments with secure JWT authentication and real-time notifications.",
+      "image": "/images/project-doctor.png",
+      "technologies": ["React", "Node.js", "Express.js", "MongoDB", "JWT"],
+      "liveUrl": "https://3das-frontend.vercel.app/login",
+      "githubUrl": "https://github.com/Ankit4899/doctor_Appointment_System_project.git",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "pyBuilder",
+      "description": "A responsive booking platform inspired by Airbnb, featuring property listings, user management, and REST API integration.",
+      "image": "/images/project-airbnb.png",
+      "technologies": ["React", "Bootstrap", "REST API"],
+      "liveUrl": "https://pybuilder.vercel.app/",
+      "githubUrl": "https://github.com/Ankit4899/pyCourse.git",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "IOCL Barauni Dashboard",
+      "description": "A full-stack MERN dashboard application developed for IOCL Barauni to display current projects, upcoming initiatives, and real-time news updates with secure authentication.",
+      "image": "/images/project-iocl.png",
+      "technologies": ["React", "Vite", "Node.js", "Express.js", "MongoDB"],
+      "liveUrl": "",
+      "githubUrl": "https://github.com/Ankit4899/IOCL.git",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "name": "Trading platform",
+      "description": "A full-stack MERN dashboard application developed for IOCL Barauni to display current projects, upcoming initiatives, and real-time news updates with secure authentication.",
+      "image": "/images/project-iocl.png",
+      "technologies": ["React", "Vite", "Node.js", "Express.js", "MongoDB"],
+      "liveUrl": "",
+      "githubUrl": "https://github.com/Ankit4899/stockTrading.git",
+      "featured": false
+    }
+  ],
+
+  "education": {
+    "degree": "B.Tech in Computer Science & Engineering",
+    "institution": "Ganga Institute of Technology & Management",
+    "duration": "2022 - 2026"
+  },
+
+  "contact": {
+    "title": "Let's Connect",
+    "subtitle": "I’m open to internships, entry-level roles, collaborations, and learning opportunities.",
+    "callToAction": "Feel free to reach out!"
+  }
+}
